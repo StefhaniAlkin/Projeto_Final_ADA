@@ -1,6 +1,6 @@
 from bibliotecas_preprocess import *
 
-df_adv = pd.read_csv(".\0_Dados\advertising_full.csv", parse_dates=["Timestamp"])
+df_adv = pd.read_csv("./0_Dados/advertising_full.csv", parse_dates=["Timestamp"])
 
 # Cópia da base
 df_adv_copy = df_adv.copy()
