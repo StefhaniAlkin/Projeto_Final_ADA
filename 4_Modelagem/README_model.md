@@ -4,7 +4,7 @@ Esta pasta contém 5 (cinco) scripts em Python utilzados para modelagem e otimiz
 
 * Importa todas as bibliotecas necessárias para execução dos demais scripts
 
-`06_treino_teste.py`
+`treino_teste_06.py`
 
 * Converte `advertising_processed.csv` em dataframe
 
@@ -46,7 +46,7 @@ Esta pasta contém 5 (cinco) scripts em Python utilzados para modelagem e otimiz
 
 * Retorna o desempenho do modelo segundo as métricas `accuracy`, `precision`, `recall` e `f-score`.
 
-`09_regressao_logistica.py`
+`regressao_logistica_09.py`
 
 * Instancia o algoritmo de **Regressão Logística**
 
