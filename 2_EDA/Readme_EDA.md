@@ -1,5 +1,5 @@
 ## 3. [Análise descritiva Exploratória (EDA)](#3-EDA) 
-###3.1 [Visualização dos dados](#32-Visualizacao-dos-dados)
+### 3.1 [Visualização dos dados](#32-Visualizacao-dos-dados)
 
 A partir das informações obtidas pelas funções .info() e .shape, é possível verificar que a base de dados possui **10 atributos** e **101450 entradas**. Também observa-se a **ausência de nulos**, uma vez que todas as colunas possuem a mesma quantidade total de linhas.
 
@@ -29,8 +29,8 @@ Durante o processo de limpeza, retiramos cerca de **7,2%** do conjunto de dados.
 
 A única variável que optamos por realizar a tratativa de outliers foi **'Age'**, com valor mínimo 0 e valor máximo 114. Não consideramos condizente aplicar dados de pessoas menores de 18 anos, e de acordo com cálculo **IQR** e concentração dos dados, optamos por fechar a amostra em 86 anos para melhor correlação com outras variáveis.
 
-![boxplot_age_com_outliers](boxplot_age_com_outliers.png)
+![boxplot_age_com_outliers](../5_Imagens/boxplot_age_com_outliers.png)
+
 
 A quantidade de linhas retiradas foi 19830, que representa 19.55% do conjunto de dados.
-(81620, 10)
-
+(81620, 10).
