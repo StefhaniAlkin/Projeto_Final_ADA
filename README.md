@@ -124,7 +124,7 @@ Durante o processo de limpeza, retiramos cerca de **7,2%** do conjunto de dados.
 
 A única variável que optamos por realizar a tratativa de outliers foi **'Age'**, com valor mínimo 0 e valor máximo 114. Não consideramos condizente aplicar dados de pessoas menores de 18 anos, e de acordo com cálculo **IQR** e concentração dos dados, optamos por fechar a amostra em 86 anos para melhor correlação com outras variáveis.
 
-![boxplot_age_com_outliers](../5_Imagens/boxplot_age_com_outliers.png)
+![boxplot_age_com_outliers](./5_Imagens/boxplot_age_com_outliers.png)
 
 
 A quantidade de linhas retiradas foi 19830, que representa 19.55% do conjunto de dados.
@@ -132,7 +132,7 @@ A quantidade de linhas retiradas foi 19830, que representa 19.55% do conjunto de
 
 ### 3.5 [Correlação](#35-correlacao)
 
-![heatmap_correlacoes](../5_Imagens/heatmap_correlacoes.png)
+![heatmap_correlacoes](./5_Imagens/heatmap_correlacoes.png)
 
 Ao examinar atentamente a tabela de correlação e, subsequentemente, o mapa de calor (heatmap), acima, constata-se que não se evidenciam correlações substanciais entre os dados. No entanto, destacam-se correlações intrigantes entre as variáveis "clicked_on_ad" e "daily_time_spent_on_site" (Correlação: -0.423595), bem como "clicked_on_ad" e "daily_internet_usage"(Correlação: -0.467545), apresentando correlações negativas de natureza moderada.
 
@@ -143,11 +143,11 @@ Deste modo, é possivel concluir que a análise correlacional proporciona insigh
 (#53-regressao-logistica)
 
 
-![Matrix_RegLog2](../5_Imagens/Matrix_RegLog2.png)
+![Matrix_RegLog2](./5_Imagens/Matrix_RegLog2.png)
 
 Apesar das limitações relacionadas ao modelo de **regressão logística**, considerando o fato de não ser a escolha ideal para previsões em situações com um elevado número de outliers e baixa correlação entre as variáveis independentes.
 Após realizar a análise da regressão logística, observamos que ele apresentou uma **precisão** de **0.81**, para casos **positivos** e **0.75** para casos **negativos**, superando outros modelos avaliados. Isso sugere que, mesmo diante das mencionadas desvantagens, a regressão logística demonstrou ser uma opção viável e competitiva para o problema em questão.
 
-![Curva_ROC](../5_Imagens/Curva_ROC.png)
+![Curva_ROC](./5_Imagens/Curva_ROC.png)
 
 
