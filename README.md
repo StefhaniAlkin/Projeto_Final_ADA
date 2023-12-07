@@ -26,7 +26,7 @@ O objetivo deste projeto é aplicar os conceitos aprendidos durante a nossa jorn
 
 3. [Análise descritiva Exploratória (EDA)](#3-EDA)
 
-   3.1 [Visualização dos dados](#32-Visualizacao-dos-dados)
+   3.1 [Visualização dos dados](#31-Visualizacao-dos-dados)
 
     3.2 [Análise de valores negativos](#32-analise-de-valores-negativos)
 
@@ -36,7 +36,7 @@ O objetivo deste projeto é aplicar os conceitos aprendidos durante a nossa jorn
 
     3.5 [Correlação](#35-correlacao)
 
-4. [Separação dos conjuntos de treinamento e de teste](#110-treinamento-e-teste)
+4. [Separação dos conjuntos de treinamento e de teste](#4-treinamento-e-teste)
 
 5.  [Modelagem de dados](#5-Modelagem-de-dados)
 
@@ -94,7 +94,7 @@ from scipy.stats import loguniform
 ```
 
 ## 3. [Análise descritiva Exploratória (EDA)](#3-EDA) 
-### 3.1 [Visualização dos dados](#32-Visualizacao-dos-dados)
+### 3.1 [Visualização dos dados](#31-Visualizacao-dos-dados)
 
 A partir das informações obtidas pelas funções .info() e .shape, é possível verificar que a base de dados possui **10 atributos** e **101450 entradas**. Também observa-se a **ausência de nulos**, uma vez que todas as colunas possuem a mesma quantidade total de linhas.
 
@@ -140,7 +140,7 @@ Em termos práticos, isso implica que, em geral, **quanto mais tempo um usuário
 
 Deste modo, é possivel concluir que a análise correlacional proporciona insights preliminares relevantes sobre as interações entre as variáveis mencionadas, no entretanto, ressalta-se a necessidade imperativa de conduzir uma análise mais minuciosa e considerar o contexto específico do conjunto de dados para inferir conclusões precisas. Para isso iremos análisar as distribuição das variáveis indivudualmente
 
-(#53-regressao-logistica)
+### 5.3 [Regressão Logística](#53-regressao-logistica)
 
 
 ![Matrix_RegLog2](./5_Imagens/Matrix_RegLog2.png)
