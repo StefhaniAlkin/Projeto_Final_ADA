@@ -1,6 +1,6 @@
-![Capa](.\5_Imagens\Capa.jpg)
+![Capa](./5_Imagens/Capa.jpg)
 
-# ::computer_mouse::computer_mouse:**Modelo Preditivo de Classificação de Clique em Anúncios**
+# :computer_mouse: **Modelo Preditivo de Classificação de Clique em Anúncios**
 
 
 O objetivo deste projeto é aplicar os conceitos aprendidos durante a nossa jornada na **Ada** para desenvolver um modelo de aprendizado supervisionado, com a finalidade de classificar o conjunto de dados de publicidade(*advertising*). Este conjunto de dados indica se um usuário específico da *internet* clicou ou não em um anúncio de um site não especificado nesta análise. Vamos trabalhar para criar um modelo que preveja se o usuário realizará o clique com base em suas característica (*features*)
