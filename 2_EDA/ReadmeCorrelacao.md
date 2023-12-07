@@ -1,3 +1,5 @@
+### 3.5 [Correlação](#35-correlacao)
+
 ![heatmap_correlacoes](../5_Imagens/heatmap_correlacoes.png)
 
 Ao examinar atentamente a tabela de correlação e, subsequentemente, o mapa de calor (heatmap), acima, constata-se que não se evidenciam correlações substanciais entre os dados. No entanto, destacam-se correlações intrigantes entre as variáveis "clicked_on_ad" e "daily_time_spent_on_site" (Correlação: -0.423595), bem como "clicked_on_ad" e "daily_internet_usage"(Correlação: -0.467545), apresentando correlações negativas de natureza moderada.

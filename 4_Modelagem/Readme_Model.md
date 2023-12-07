@@ -1,3 +1,6 @@
+### 5.3 [Regressão Logística](#53-regressao-logistica)
+
+
 ![Matrix_RegLog2](../5_Imagens/Matrix_RegLog2.png)
 
 Apesar das limitações relacionadas ao modelo de **regressão logística**, considerando o fato de não ser a escolha ideal para previsões em situações com um elevado número de outliers e baixa correlação entre as variáveis independentes.
