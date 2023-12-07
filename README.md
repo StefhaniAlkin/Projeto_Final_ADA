@@ -14,7 +14,8 @@ O objetivo deste projeto é aplicar os conceitos aprendidos durante a nossa jorn
 * Stefhani - https://github.com/StefhaniAlkin
 
 
-**Linguagem de programação** : Python                                                    
+**Linguagem de programação** : Python
+**Como Executar**: para reproduzir este trabalho, basta executar o arquivo como python NOME_DO_SCRIPT.py em uma IDLE. Não há necessidade de estabelecer quaisquer parâmetros, pois os valores são setados dentro de cada script.
 **Programa**: Quero Ser Data Analytics                                                                           
 **Conjunto de dados de origem** : CSV - [Advertising.full](0_Dados\advertising_raw.csv)
 
