@@ -101,17 +101,17 @@ A partir das informações obtidas pelas funções .info() e .shape, é possíve
 
 Vamos explorar algumas estatísticas descritivas essenciais para cada variável.
 
-- O tempo diário gasto no site apresenta uma média de aproximadamente 62,63 minutos, com uma variação considerável, evidenciada pelo desvio padrão de 27,05 minutos. No entanto, a presença de valores negativos e extremos, como -61,37 minutos, sugere a possibilidade de dados incorretos ou outliers.
+- O **tempo diário gasto no site** apresenta uma média de aproximadamente 62,63 minutos, com uma variação considerável, evidenciada pelo desvio padrão de 27,05 minutos. No entanto, a presença de valores negativos e extremos, como -61,37 minutos, sugere a possibilidade de dados incorretos ou **outliers**.
   
-- A idade média dos usuários é de cerca de 36,47 anos, com uma dispersão de 18,47 anos. Novamente, observamos a presença de valores negativos e extremos, como -51 anos, indicando a necessidade de uma revisão mais detalhada dos dados.
+- A **idade média dos usuários** é de cerca de 36,47 anos, com uma **dispersão** de 18,47 anos. Novamente, observamos a presença de **valores negativos** e extremos, como -51 anos, indicando a necessidade de uma revisão mais detalhada dos dados.
 
-- A renda média da área é de USD 53.802,83, com um desvio padrão de USD 28.179,05. Valores negativos, como USD -64.296,67, podem apontar para erros nos dados, enquanto a amplitude de USD 177.414,25 destaca a variabilidade significativa na renda das áreas dos usuários.
+- A **renda média da área** é de USD 53.802,83, com um desvio padrão de USD 28.179,05. Valores negativos, como USD -64.296,67, podem apontar para erros nos dados, enquanto a amplitude de USD 177.414,25 destaca a variabilidade significativa na renda das áreas dos usuários.
 
-- O uso diário da internet tem uma média de 173,06 minutos e uma ampla variação, indicada pelo desvio padrão de 72,85 minutos. No entanto, valores negativos, como -119,57 minutos, necessitam de investigação.
+- O **uso diário da internet** tem uma média de 173,06 minutos e uma ampla variação, indicada pelo **desvio padrão** de 72,85 minutos. No entanto, **valores negativos**, como -119,57 minutos, necessitam de investigação.
 
-- A variável binária "Male" mostra uma distribuição quase equitativa, com uma média de 0,498, indicando uma divisão quase igual entre usuários masculinos e femininos.
+- A variável binária **"Male"** mostra uma distribuição quase equitativa, com uma média de **0,498**, indicando uma divisão quase igual entre usuários masculinos e femininos.
 
-- Por fim, a taxa de cliques em anúncios possui uma média de 0,599, sugerindo que cerca de 60% dos usuários clicaram em anúncios. No entanto, a presença de valores extremos e negativos destaca a importância de uma análise mais aprofundada para garantir a integridade dos dados.
+- Por fim, a **taxa de cliques** em anúncios possui uma média de **0,599**, sugerindo que cerca de 60% dos usuários clicaram em anúncios. No entanto, a presença de valores extremos e negativos destaca a importância de uma análise mais aprofundada para garantir a integridade dos dados.
 
 Essas estatísticas descritivas oferecem uma **visão inicial dos dados**, destacando áreas potenciais para investigação adicional, correção de possíveis erros e preparação para análises mais avançadas.
 
