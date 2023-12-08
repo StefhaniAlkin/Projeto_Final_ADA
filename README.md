@@ -15,7 +15,7 @@ O objetivo deste projeto é aplicar os conceitos aprendidos durante a nossa jorn
 
                      
 **Programa**: Quero Ser Data Analytics                                                                           
-**Conjunto de dados de origem** : CSV - [Advertising.full](0_Dados\advertising_raw.csv)  
+**Conjunto de dados de origem** : CSV - [Advertising_full](0_Dados\advertising_full.csv)  
 **Linguagem de programação** : Python  
 
 **Como Executar**: 
