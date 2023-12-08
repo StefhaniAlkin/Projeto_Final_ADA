@@ -13,11 +13,21 @@ O objetivo deste projeto é aplicar os conceitos aprendidos durante a nossa jorn
 * Sabrina - https://github.com/abyss-child
 * Stefhani - https://github.com/StefhaniAlkin
 
-
-**Linguagem de programação** : Python                                                                                    
-**Como Executar**: para reproduzir este trabalho, basta executar o arquivo como python NOME_DO_SCRIPT.py em uma IDLE. Não há necessidade de estabelecer quaisquer parâmetros, pois os valores são setados dentro de cada script.                      
+                     
 **Programa**: Quero Ser Data Analytics                                                                           
 **Conjunto de dados de origem** : CSV - [Advertising.full](0_Dados\advertising_raw.csv)
+**Linguagem de programação** : Python  
+
+**Como Executar**: 
+   * Para instalar as bibliotecas necessárias para o trabalho, na linha de comando no terminal execute o código:
+   ```
+   pip install -r requirements.txt
+   ```
+   * Para reproduzir este trabalho pela linha de comando, dentro da pasta principal do trabalho (Projeto_Final_ADA), basta executar o comando python mais o nome da pasta e do respectivo arquivo da seguinte forma: python PASTA/NOME_DO_SCRIPT.py . Exemplificando:
+   ```
+   python 1_Pre_Processamento/03_analise_outliers.py
+   ```
+   * Não há necessidade de estabelecer quaisquer parâmetros, pois os valores são setados dentro de cada script. 
 
 **Índice**
 
